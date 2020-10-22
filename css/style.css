@@ -241,15 +241,6 @@ background-size: 100% 100%;
  background-image: linear-gradient( rgb(94, 153, 61),rgba(99, 223, 29, 0.5), rgba(110, 165, 255, 0.5)), url("../img/introbg.jpg");
 
 }
-#intro p {
-    text-align: center;
-    margin: auto;
-    font-size: 18px;
-    padding-bottom: 60px;
-    color: rgba(255, 255, 255, 0.85);
-    width: 50%;
-    font-weight: 600;
-}
 
 .contentdesign {
     font-weight: 600;
@@ -262,6 +253,15 @@ background-size: 100% 100%;
   margin-bottom: 18px;
   font-size: 48px;
   font-weight: 700;
+}
+#intro p {
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+    padding-bottom: 60px;
+    color: rgba(255, 255, 255, 0.85);
+    width: 50%;
+    font-weight: 600;
 }
 
 #intro .intro-info h2 span {
